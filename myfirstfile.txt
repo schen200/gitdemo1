@@ -1,1 +1,2 @@
 First line added in txt
+Second line added in Atom
