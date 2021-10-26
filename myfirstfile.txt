@@ -1,3 +1,4 @@
 First line added in txt
 Second line added in Atom
 Third line added in Atom in 2nd_branch
+Fourth line added in Atom in 2nd_branch
